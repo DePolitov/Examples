@@ -1,0 +1,15 @@
+C:\E\personal\GB\Уроки\4_1 четверть. База\3. Знакомство с языками программирования\Repo\Examples\Exx003\obj\Debug\net6.0\Exx003.csproj.AssemblyReference.cache
+C:\E\personal\GB\Уроки\4_1 четверть. База\3. Знакомство с языками программирования\Repo\Examples\Exx003\obj\Debug\net6.0\Exx003.GeneratedMSBuildEditorConfig.editorconfig
+C:\E\personal\GB\Уроки\4_1 четверть. База\3. Знакомство с языками программирования\Repo\Examples\Exx003\obj\Debug\net6.0\Exx003.AssemblyInfoInputs.cache
+C:\E\personal\GB\Уроки\4_1 четверть. База\3. Знакомство с языками программирования\Repo\Examples\Exx003\obj\Debug\net6.0\Exx003.AssemblyInfo.cs
+C:\E\personal\GB\Уроки\4_1 четверть. База\3. Знакомство с языками программирования\Repo\Examples\Exx003\obj\Debug\net6.0\Exx003.csproj.CoreCompileInputs.cache
+C:\E\personal\GB\Уроки\4_1 четверть. База\3. Знакомство с языками программирования\Repo\Examples\Exx003\bin\Debug\net6.0\Exx003.exe
+C:\E\personal\GB\Уроки\4_1 четверть. База\3. Знакомство с языками программирования\Repo\Examples\Exx003\bin\Debug\net6.0\Exx003.deps.json
+C:\E\personal\GB\Уроки\4_1 четверть. База\3. Знакомство с языками программирования\Repo\Examples\Exx003\bin\Debug\net6.0\Exx003.runtimeconfig.json
+C:\E\personal\GB\Уроки\4_1 четверть. База\3. Знакомство с языками программирования\Repo\Examples\Exx003\bin\Debug\net6.0\Exx003.dll
+C:\E\personal\GB\Уроки\4_1 четверть. База\3. Знакомство с языками программирования\Repo\Examples\Exx003\bin\Debug\net6.0\Exx003.pdb
+C:\E\personal\GB\Уроки\4_1 четверть. База\3. Знакомство с языками программирования\Repo\Examples\Exx003\obj\Debug\net6.0\Exx003.dll
+C:\E\personal\GB\Уроки\4_1 четверть. База\3. Знакомство с языками программирования\Repo\Examples\Exx003\obj\Debug\net6.0\refint\Exx003.dll
+C:\E\personal\GB\Уроки\4_1 четверть. База\3. Знакомство с языками программирования\Repo\Examples\Exx003\obj\Debug\net6.0\Exx003.pdb
+C:\E\personal\GB\Уроки\4_1 четверть. База\3. Знакомство с языками программирования\Repo\Examples\Exx003\obj\Debug\net6.0\Exx003.genruntimeconfig.cache
+C:\E\personal\GB\Уроки\4_1 четверть. База\3. Знакомство с языками программирования\Repo\Examples\Exx003\obj\Debug\net6.0\ref\Exx003.dll
